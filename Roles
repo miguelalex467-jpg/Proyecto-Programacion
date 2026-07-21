@@ -1,0 +1,47 @@
+
+👥 Distribución del Trabajo Colaborativo (3 Integrantes)
+🔵 Integrante A:MIGUEL: Datos y Persistencia (Backend / Modelo)
+
+    Clase Libro (Estructura de la entidad, atributos y métodos de la clase).
+
+    Lectura JSON (Carga de datos desde archivo).
+
+    Escritura JSON (Guardado/persistencia de datos).
+
+    Validaciones a nivel de datos y archivo (Control de formatos, estructura del JSON, manejo de archivos no encontrados/corruptos).
+
+    Documentación del módulo de persistencia.
+
+🟢 Integrante B:MENONA: Lógica de Negocio y Gestión (Controlador / Lógica)
+
+    Clase Biblioteca (Gestión de la colección, funciones de búsqueda, altas, bajas y modificaciones).
+
+    Conector / Controlador (Lógica que conecta la interfaz gráfica con el modelo y el almacenamiento JSON).
+
+    Validaciones de reglas de negocio (Verificar duplicados, campos obligatorios, restricciones de la biblioteca).
+
+    Documentación de la lógica del sistema.
+
+🟠 Integrante C:ALEX: Interfaz Gráfica (Frontend / UI)
+
+    Ventana principal y Menús (Diseño y maquetación visual).
+
+    Ventanas modales (Formularios flotantes para agregar/editar libros).
+
+    Treeview y Componentes (Visualización de listas/tablas de libros).
+
+    Mensajes de confirmación y Validaciones visuales (Cuadros de diálogo, alertas, diseño responsivo).
+
+    Documentación del módulo de interfaz gráfica.
+
+🤝 Trabajo Conjunto (Los 3 Integrantes)
+
+    Integración del proyecto (Unión del código de cada capa).
+
+    Pruebas y Testing (Verificación global del funcionamiento).
+
+    Corrección de errores (Debugging y ajustes finales).
+
+    Documentación general (Unión de las partes y redacción del informe final).
+
+    Presentación (Exposición del proyecto).

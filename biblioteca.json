@@ -1,0 +1,20 @@
+[
+    {
+        "isbn": "9788497592208",
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "a\u00f1o": 1605,
+        "editorial": "Debolsillo",
+        "categoria": "Novela",
+        "estado": "Disponible"
+    },
+    {
+        "isbn": "9780307474278",
+        "titulo": "The Martian",
+        "autor": "Andy Weir",
+        "a\u00f1o": 2014,
+        "editorial": "Crown Publishing",
+        "categoria": "Ciencia Ficci\u00f3n",
+        "estado": "Disponible"
+    }
+]
